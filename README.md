@@ -1,3 +1,15 @@
+# Simple React Naitve Application
+
+This application is build on React Native. This app demonstrate simple Auth, Navigation, Api Calls and some basic Animations.
+
+Feel Free to contribute!🙂
+
+# Demo Video
+
+https://github.com/raysk4ever/Simple-React-Native-App/assets/33181670/daeabec4-017a-475a-ae73-ad03acd6ce4b
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
